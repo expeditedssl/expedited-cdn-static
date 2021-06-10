@@ -4,5 +4,5 @@
     "repository": "https://github.com/mbuckbee/expedited-cdn-static",
     "logo": "https://s3.amazonaws.com/assets.heroku.com/addons.heroku.com/icons/3115/original.png?1617630365",
     "keywords": ["network", "static", "cdn"],
-    "addons": ["expedited-cdn:test"]
+    "addons": ["expeditedcdn:test"]
   }
